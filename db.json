@@ -1,0 +1,39 @@
+{
+   "movies":[
+      {
+         "id":85,
+         "titulo":"The Avengers",
+         "ano":2012,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328",
+         "nota":4.9
+      },
+      {
+         "id":14,
+         "titulo":"Avengers: Age of Ultron",
+         "ano":2015,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/2/22/OsVingadores2.jpg?20150224175213",
+         "nota":4.3
+      },
+      {
+         "id":96,
+         "titulo":"Avengers: Infinity War",
+         "ano":2018,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/90/Avengers_Infinity_War.jpg?20180316152122",
+         "nota":4.8
+      },
+      {
+         "id":78,
+         "titulo":"Avengers: Endgame",
+         "ano":2019,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/9b/Avengers_Endgame.jpg?20190317150357",
+         "nota":3.8
+      },
+      {
+         "id":36,
+         "titulo":"Wonder Woman",
+         "ano":2017,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/9f/Mulher_Maravilha_2009.jpg?20171230123503",
+         "nota":5.0
+      }
+   ]
+}
