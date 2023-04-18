@@ -34,6 +34,34 @@
          "ano":2017,
          "poster":"https://upload.wikimedia.org/wikipedia/pt/9/9f/Mulher_Maravilha_2009.jpg?20171230123503",
          "nota":5.0
+      },
+      {
+         "id":39,
+         "titulo":"Doctor Strange",
+         "ano":2016,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/c/c7/Doctor_Strange_poster.jpg",
+         "nota":5.0
+      },
+      {
+         "id":80,
+         "titulo":"Guardians of the Galaxy",
+         "ano":2014,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg",
+         "nota":4.8
+      },
+      {
+         "id":78,
+         "titulo":"Iron Man 2",
+         "ano":2021,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/9a/Homem_de_Ferro_2_-_Poster.jpg",
+         "nota":4.7
+      },
+      {
+         "id":61,
+         "titulo":"Iron Man",
+         "ano":2008,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+         "nota":5.0
       }
    ]
 }
